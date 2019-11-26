@@ -14,13 +14,12 @@ Google Lighthouse is an open-source, automated tool for improving the quality of
 ---
 
 ## IoES Lighthouse reports
-
 ### [www.ioes.ucla.edu](https://www.ioes.ucla.edu)
 
-1. [2019-11-26 10:06am, desktop, simulated CPU throttling 4x slowdown](https://github.com/uclaioes/site-audit/reports/www.ioes.ucla.edu-20191126T100644.html)
-1. [2019-11-26 10:00am, desktop, no cpu throttling](https://github.com/uclaioes/site-audit/reports/www.ioes.ucla.edu-2019-11-26-T10-00-29.html)
-1. [2019-11-26 9:56am, mobile, simulated CPU throttling 4x slowdown](https://github.com/uclaioes/site-audit/reports/www.ioes.ucla.edu-2019-11-26-T09-56-21.html)
-1. [2019-11-26 9:50am, mobile, simulated CPU throttling 4x slowdown](https://github.com/uclaioes/site-audit/www.ioes.ucla.edu_2019-11-26_09-50-39.report.html)
+1. [2019-11-26 10:06am, desktop, simulated CPU throttling 4x slowdown](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu-20191126T100644.html)
+1. [2019-11-26 10:00am, desktop, no cpu throttling](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu-2019-11-26-T10-00-29.html)
+1. [2019-11-26 9:56am, mobile, simulated CPU throttling 4x slowdown](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu-2019-11-26-T09-56-21.html)
+1. [2019-11-26 9:50am, mobile, simulated CPU throttling 4x slowdown](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2019-11-26_09-50-39.report.html)
 
 
 ---
