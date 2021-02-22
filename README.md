@@ -66,7 +66,7 @@ Open the [Viewer](https://googlechrome.github.io/lighthouse/viewer/), and paste 
 ## IoES Lighthouse reports
 ### [www.ioes.ucla.edu](https://www.ioes.ucla.edu)
 
-All test results are saved in the [reports](https://uclaioes.github.io/site-audit/reports/) folder. 
+All test results are saved in the [reports](https://github.com/uclaioes/site-audit/tree/master/reports) folder in this repo. 
 
 ### 2021
 
