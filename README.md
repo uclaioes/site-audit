@@ -29,6 +29,8 @@ To run an audit, use `--output` flags to export json, html or both. use `--view`
 
 `lighthouse https://www.ioes.ucla.edu --output html --view`
 
+`lighthouse https://www.sustain.ucla.edu --output html --view`
+
 ### Test on a site with authentication
 
 When installed globally via `npm i -g lighthouse` or `yarn global add lighthouse`,
@@ -63,6 +65,17 @@ Open the [Viewer](https://googlechrome.github.io/lighthouse/viewer/), and paste 
 
 ## IoES Lighthouse reports
 ### [www.ioes.ucla.edu](https://www.ioes.ucla.edu)
+
+All test results are saved in the [reports](https://uclaioes.github.io/site-audit/reports/) folder. 
+
+### 2021
+
+1. [2021-02-19 / 99, 100, 100,100](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2021-02-19_14-56-51.report.html)
+1. [2021-02-19 / 98, 100, 100, 100](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2021-02-19_14-28-48.report.html)
+1. [2021-02-19 / 80, 100, 100, 100](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2021-02-19_09-07-57.report.html)
+
+
+### Past reports
 
 1. [2020-01-09 4:38PM](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2020-01-09_16-35-29.report.html)
 1. [2019-11-26 13:54pm, desktop, CPU throttling 4x slowdown simulated](https://uclaioes.github.io/site-audit/reports/www.ioes.ucla.edu_2019-11-26_13-54-52.report.html)
